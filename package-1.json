@@ -1,0 +1,10 @@
+{
+  "name": "netlify-functions-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Netlify Functions backend (comments, clip comments, share XP, push notifications).",
+  "dependencies": {
+    "firebase-admin": "^12.7.0"
+  }
+}
